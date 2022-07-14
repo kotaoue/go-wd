@@ -16,3 +16,11 @@ func Get() (string, error) {
 	}
 	return filepath.Dir(exe), nil
 }
+
+func FullPath(path string) (string, error) {
+	wd, err := Get()
+	if err != nil {
+		return wd, err
+	}
+	return wd + "/" + path, nil
+}
