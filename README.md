@@ -80,6 +80,3 @@ Output:
 ```
 /path/to/your/project/config.json
 ```
-
-## Links
-* [kotaoue/go-wd-tester](https://github.com/kotaoue/go-wd-tester)
