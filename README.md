@@ -1,6 +1,6 @@
 # go-wd
 
-[![Test](https://github.com/kotaoue/go-wd/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/kotaoue/go-wd/actions/workflows/test.yml)
+[![Go](https://github.com/kotaoue/go-wd/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/kotaoue/go-wd/actions/workflows/test.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/kotaoue/go-wd)](https://goreportcard.com/report/github.com/kotaoue/go-wd)
 [![License](https://img.shields.io/github/license/kotaoue/go-wd)](https://github.com/kotaoue/go-wd/blob/main/LICENSE)
 
